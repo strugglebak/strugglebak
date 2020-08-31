@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 August, 2020 - 29 August, 2020
+Week: 23 August, 2020 - 30 August, 2020
 
 TypeScript   16 hrs 51 mins  ███████████████████████▒░   93.40 % 
 LESS         1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
