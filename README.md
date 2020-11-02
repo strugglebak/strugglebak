@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2020 - 31 October, 2020
+Week: 25 October, 2020 - 01 November, 2020
 
 TypeScript   7 hrs 58 mins   ██████████████████████░░░   87.72 % 
 JavaScript   59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
