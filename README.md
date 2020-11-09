@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2020 - 07 November, 2020
+Week: 01 November, 2020 - 08 November, 2020
 
 Vue.js       7 hrs 45 mins   ██████████████░░░░░░░░░░░   56.59 % 
 TypeScript   4 hrs 17 mins   ███████▓░░░░░░░░░░░░░░░░░   31.30 % 
