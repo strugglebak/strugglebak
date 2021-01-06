@@ -14,9 +14,9 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
-TypeScript   30 mins         ███████████████████████▒░   93.43 % 
-Vue.js       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+TypeScript   30 mins         ██████████████████████▓░░   90.82 % 
+C            3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
 ```
 <!--END_SECTION:waka-->
