@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 March, 2021 - 27 March, 2021
+Week: 21 March, 2021 - 28 March, 2021
 
 Vue.js       3 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.73 % 
 JSON         2 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   19.06 % 
