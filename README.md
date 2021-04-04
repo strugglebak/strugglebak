@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 March, 2021 - 02 April, 2021
+Week: 27 March, 2021 - 03 April, 2021
 
 C            2 hrs 5 mins    █████████▓░░░░░░░░░░░░░░░   39.30 % 
 JSON         1 hr 11 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.39 % 
