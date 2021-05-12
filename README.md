@@ -14,12 +14,12 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 May, 2021 - 10 May, 2021
+Week: 04 May, 2021 - 11 May, 2021
 
-Vue.js       5 hrs 52 mins   ██████████████████████░░░   88.43 % 
-JavaScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-SCSS         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-Makefile     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Vue.js       12 hrs 56 mins  ███████████████████████░░   91.85 % 
+JavaScript   42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+SCSS         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Makefile     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
