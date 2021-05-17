@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 May, 2021 - 15 May, 2021
+Week: 09 May, 2021 - 16 May, 2021
 
 Vue.js       34 hrs 34 mins  ████████████████████████░   95.78 % 
 JavaScript   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
