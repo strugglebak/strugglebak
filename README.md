@@ -14,9 +14,6 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 May, 2021 - 07 June, 2021
-
-JavaScript   33 mins         ██████████████████████▒░░   88.79 % 
-C            4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
