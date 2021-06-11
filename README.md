@@ -14,6 +14,8 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 03 June, 2021 - 10 June, 2021
+
+
 ```
 <!--END_SECTION:waka-->
