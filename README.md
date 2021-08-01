@@ -14,8 +14,8 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 July, 2021 - 30 July, 2021
+Week: 25 July, 2021 - 31 July, 2021
 
-C   1 min           █████████████████████████   100.00 % 
+C   44 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
