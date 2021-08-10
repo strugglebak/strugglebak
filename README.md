@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 August, 2021 - 08 August, 2021
+Week: 03 August, 2021 - 09 August, 2021
 
 C          4 hrs 53 mins   █████████████████████▓░░░   86.94 % 
 GAS        25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
