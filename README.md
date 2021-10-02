@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2021 - 30 September, 2021
+Week: 25 September, 2021 - 01 October, 2021
 
 C                11 hrs 26 mins  ███████████████████░░░░░░   76.07 % 
 Other            3 hrs 13 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.40 % 
