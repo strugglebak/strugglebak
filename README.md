@@ -14,11 +14,11 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 September, 2021 - 06 October, 2021
+Week: 01 October, 2021 - 07 October, 2021
 
-C                7 hrs 31 mins   ████████████████████░░░░░   80.26 % 
-Other            1 hr 37 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Makefile         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-ca65 assembler   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+C                11 hrs 22 mins  ███████████████████████░░   91.67 % 
+Other            50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Makefile         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+ca65 assembler   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
