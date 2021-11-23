@@ -14,9 +14,9 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 November, 2021 - 21 November, 2021
+Week: 16 November, 2021 - 22 November, 2021
 
-Rust   12 hrs 44 mins  ████████████████████████▓   98.32 % 
-TOML   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Rust   11 hrs 1 min    ████████████████████████▓   98.04 % 
+TOML   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 <!--END_SECTION:waka-->
