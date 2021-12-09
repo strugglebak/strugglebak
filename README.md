@@ -14,8 +14,8 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
-Rust   3 hrs 23 mins   █████████████████████████   100.00 % 
+Rust   4 hrs 49 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
