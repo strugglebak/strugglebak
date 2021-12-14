@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 December, 2021 - 12 December, 2021
+Week: 07 December, 2021 - 13 December, 2021
 
 Rust   7 hrs 4 mins    ████████████████████████▓   99.29 % 
 TOML   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
