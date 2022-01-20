@@ -14,10 +14,9 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-Rust         17 hrs 15 mins  ████████████████████████▓   98.36 % 
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-TOML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Rust         20 hrs 22 mins  █████████████████████████   99.76 % 
+TOML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
