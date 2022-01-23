@@ -6,8 +6,8 @@ I'm a Front-end developer
 
 ## About
 
--  **Learning :** NodeJS | Go
--  **Languages :** JavaScript | Python
+-  **Learning :** Rust | Go | Java
+-  **Languages :** JavaScript | TypeScript | Python | C/C++
 -  **Hobbies:** Death Stranding | Ori and the Blind Forest
 
 ### My code time
