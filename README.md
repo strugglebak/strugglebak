@@ -14,7 +14,7 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
 Rust       17 hrs 46 mins  ███████████████████░░░░░░   76.03 % 
 C          3 hrs 54 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 % 
