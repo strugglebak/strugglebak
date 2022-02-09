@@ -14,12 +14,12 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
-Rust       17 hrs 46 mins  █████████████▓░░░░░░░░░░░   55.01 % 
-C          12 hrs 5 mins   █████████▒░░░░░░░░░░░░░░░   37.40 % 
-Other      1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Makefile   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-TOML       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Rust       21 hrs 22 mins  ███████████████░░░░░░░░░░   59.52 % 
+C          12 hrs 5 mins   ████████▒░░░░░░░░░░░░░░░░   33.65 % 
+Other      1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Makefile   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+TOML       18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 <!--END_SECTION:waka-->
