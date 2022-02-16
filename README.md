@@ -14,8 +14,10 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
 
-Go      11 hrs 40 mins  █████████████████████████   99.89 % 
+Total: 13 hrs 29 mins
+
+Go      13 hrs 28 mins  █████████████████████████   99.90 % 
 ```
 <!--END_SECTION:waka-->
