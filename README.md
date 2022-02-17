@@ -16,8 +16,8 @@ I'm a Front-end developer
 ```text
 Week: 10 February, 2022 - 16 February, 2022
 
-Total: 13 hrs 29 mins
+Total: 16 hrs 19 mins
 
-Go      13 hrs 28 mins  █████████████████████████   99.90 % 
+Go      16 hrs 19 mins  █████████████████████████   99.92 % 
 ```
 <!--END_SECTION:waka-->
