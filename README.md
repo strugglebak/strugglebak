@@ -14,13 +14,12 @@ I'm a Front-end developer
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
+Week: 13 February, 2022 - 19 February, 2022
 
-Total: 17 hrs 17 mins
-
-Go         16 hrs 2 mins   ███████████████████████▒░   92.78 % 
-C++        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-C          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Markdown   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Go         17 hrs 12 mins  ████████████████████▓░░░░   83.27 % 
+Markdown   2 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+C++        1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+C          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Rust       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
