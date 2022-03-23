@@ -15,10 +15,10 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-C          10 hrs 13 mins  ███████████████████████▒░   92.70 %
-Other      40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+C          13 hrs 37 mins  █████████████████████░░░░   84.20 %
+Other      1 hr 51 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.49 %
 ```
 
 <!--END_SECTION:waka-->
