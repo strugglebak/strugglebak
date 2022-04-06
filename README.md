@@ -15,13 +15,13 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2022 - To: 04 April 2022
+From: 29 March 2022 - To: 05 April 2022
 
-Markdown   8 hrs 37 mins   ██████████████▒░░░░░░░░░░   57.19 %
-Go         2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
-C          2 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
-Rust       1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown   8 hrs 37 mins   ███████████████▒░░░░░░░░░   60.67 %
+Go         2 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   19.34 %
+Rust       1 hr 38 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+C          1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
