@@ -15,10 +15,9 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2022 - To: 08 April 2022
+From: 02 April 2022 - To: 09 April 2022
 
-Markdown   2 hrs 19 mins   ██████████████▒░░░░░░░░░░   57.43 %
-Rust       1 hr 43 mins    ██████████▓░░░░░░░░░░░░░░   42.57 %
+Rust   26 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
