@@ -15,7 +15,10 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 April 2022 - To: 19 April 2022
+
+Rust       3 hrs 33 mins   █████████████████████████   99.89 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
