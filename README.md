@@ -15,11 +15,9 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2022 - To: 28 April 2022
+From: 22 April 2022 - To: 29 April 2022
 
-Rust         8 hrs 35 mins   █████████████████████████   99.58 %
-TOML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Rust   5 hrs 40 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
