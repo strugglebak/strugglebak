@@ -15,7 +15,9 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 May 2022 - To: 04 June 2022
+
+Markdown   15 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
