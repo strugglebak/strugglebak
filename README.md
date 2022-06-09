@@ -15,7 +15,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
 Markdown   6 hrs 30 mins   █████████████████████████   99.88 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
