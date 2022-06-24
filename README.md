@@ -15,11 +15,10 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 June 2022 - To: 22 June 2022
+From: 16 June 2022 - To: 23 June 2022
 
-JavaScript   1 hr 13 mins    ███████████████████░░░░░░   76.66 %
-TypeScript   16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
-CSS          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+TypeScript   16 mins         ██████████████████▒░░░░░░   72.98 %
+CSS          6 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
 ```
 
 <!--END_SECTION:waka-->
