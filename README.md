@@ -15,10 +15,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 June 2022 - To: 27 June 2022
-
-TypeScript   16 mins         ██████████████████▒░░░░░░   72.98 %
-CSS          6 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
