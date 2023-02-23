@@ -16,6 +16,8 @@ I'm a Front-end developer
 
 ```text
 From: 15 February 2023 - To: 22 February 2023
+
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
