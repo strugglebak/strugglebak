@@ -15,10 +15,9 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2023 - To: 16 March 2023
+From: 10 March 2023 - To: 17 March 2023
 
-Vue.js       30 mins         ██████████████████████░░░   87.59 %
-JavaScript   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
