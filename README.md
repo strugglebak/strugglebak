@@ -15,11 +15,11 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Vue.js       7 mins          ██████████████████████▓░░   91.12 %
-JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Vue.js       7 mins          ██████████████████████▓░░   91.03 %
+JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
