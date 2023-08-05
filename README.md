@@ -15,11 +15,11 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2023 - To: 03 August 2023
+From: 28 July 2023 - To: 04 August 2023
 
-Vue.js       11 hrs          █████████████████████░░░░   83.42 %
-TypeScript   1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Vue.js       10 hrs 54 mins  ████████████████████▓░░░░   83.29 %
+TypeScript   1 hr 30 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
 JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
