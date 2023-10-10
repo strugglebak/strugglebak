@@ -15,9 +15,10 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-No activity tracked
+Vue.js       1 hr 28 mins    ██████████████████████▓░░   90.30 %
+TypeScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 ```
 
 <!--END_SECTION:waka-->
