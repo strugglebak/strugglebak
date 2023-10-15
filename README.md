@@ -15,7 +15,7 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2023 - To: 13 October 2023
+From: 07 October 2023 - To: 14 October 2023
 
 Vue.js       16 hrs 5 mins   ████████████████████████░   95.83 %
 TypeScript   39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
