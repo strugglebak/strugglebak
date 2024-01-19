@@ -15,10 +15,10 @@ I'm a Front-end developer
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-Vue.js       6 hrs           ███████████████████████▓░   94.69 %
-TypeScript   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Vue.js       3 hrs 56 mins   ███████████████████████░░   92.59 %
+TypeScript   18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
 ```
 
 <!--END_SECTION:waka-->
